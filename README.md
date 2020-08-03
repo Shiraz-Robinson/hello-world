@@ -2,4 +2,4 @@
 
 Hi everyone,
 
-This is my first repository in GitHub. I am second year biology major and triple minor at The Ohio State University. I have a minor in chemistry, professional writing, and philosphy. I will be a physician scientist in the future. I am happy to be a Buckeye.
+This is my first repository in GitHub. I am a third year plant biology major and math minor.
